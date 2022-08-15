@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jab/jab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Joshua Bronson
+
+* Python + web hacker since 2006
+* Added `aiter` and `anext` to Python [in 2021](https://github.com/python/cpython/pull/23847) 
+* Author + maintainer of [bidict](https://github.com/jab/bidict) since 2009 (the bidirectional mapping library for Python)
+* [Flask](https://github.com/pallets/flask)/[Pallets](https://github.com/pallets) maintainer since 2019, contributor since 2011
+* [Trio](https://github.com/python-trio/trio)/[structured concurrency](https://en.wikipedia.org/wiki/Structured_concurrency) enthusiast
+* Want to learn next: [Unison](https://www.unison-lang.org)
+
+------
+
+<details><summary><sub><i>"Fun" version?</i></sub></summary>
+<sub><i>Joshua Bronson (b. 1984) never graduated from the College of Clown Computing. At heart a dissident hacker/student radical, he soon transferred to Brown University, where he learned to problematize binaries in the global cultural metanarrative. Before long, he created subversive political advocacy web site spamunclesam.org, and was thrown forthwith in the stocks. After escaping, he moved to New York to join an anticonsumerist gospel choir, write free software for various tech-for-good causes, and work on his own harebrained ideas. The latest of these, https://linktag.co, attempts to democratize the so-called "physical web", in a short-links-for-lost-and-found disguise.</i></sub>
+</details>
