@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Joshua Bronson
 
-* Python + web hacker since 2006
-* Added `aiter` and `anext` to Python [in 2021](https://github.com/python/cpython/pull/23847) 
+* Python/web hacker since 2006
+* Added missing builtins for async iteration to Python ([2018-2021](https://github.com/python/cpython/pull/23847))
 * Author + maintainer of [bidict](https://github.com/jab/bidict) since 2009 (the bidirectional mapping library for Python)
 * [Flask](https://github.com/pallets/flask)/[Pallets](https://github.com/pallets) maintainer since 2019, contributor since 2011
 * [Trio](https://github.com/python-trio/trio)/[structured concurrency](https://en.wikipedia.org/wiki/Structured_concurrency) enthusiast
