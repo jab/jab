@@ -19,10 +19,3 @@ Here are some ideas to get you started:
 * [Bidict](https://github.com/jab/bidict) author/maintainer since 2009 (the bidirectional mapping library for Python)
 * [Flask](https://github.com/pallets/flask)/[Pallets](https://github.com/pallets) drive-by contributor since 2011, backup maintainer since 2019
 * [Trio](https://github.com/python-trio/trio)/[structured concurrency](https://en.wikipedia.org/wiki/Structured_concurrency) enthusiast
-* [Unison](https://github.com/unisonweb/unison) admirer
-
-------
-
-<details><summary><sub><i>"Fun" version?</i></sub></summary>
-<sub><i>Joshua Bronson (b. 1984) never graduated from the College of Clown Computing. At heart a dissident hacker/student radical, he soon transferred to Brown University, where he learned to problematize binaries in the global cultural metanarrative. Before long, he created subversive political advocacy web site spamunclesam.org, and was thrown forthwith in the stocks. After escaping, he moved to New York to join an anticonsumerist gospel choir, write free software for various tech-for-good causes, and work on his own harebrained ideas. The latest of these, <a href="https://linktag.co">linktag.co</a>, attempts to democratize the so-called "physical web", in a short-links-for-lost-and-found disguise.</i></sub>
-</details>
