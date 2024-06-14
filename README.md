@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 * [Added missing builtins for async iteration to Python](https://github.com/python/cpython/pull/23847) with [@lordmauve](https://github.com/lordmauve) and [@justin39](https://github.com/justin39)
 * [Bidict](https://github.com/jab/bidict) author/maintainer since 2009 (the bidirectional mapping library for Python)
-* [Flask](https://github.com/pallets/flask)/[Pallets](https://github.com/pallets) drive-by contributor since 2011, backup maintainer since 2019
+* [Flask/Pallets drive-by contributor](https://palletsprojects.com/people/jab/) since 2011, backup maintainer since 2019
 * [Trio](https://github.com/python-trio/trio)/[structured concurrency](https://en.wikipedia.org/wiki/Structured_concurrency) enthusiast
